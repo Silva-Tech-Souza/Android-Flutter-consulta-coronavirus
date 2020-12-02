@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="match_parent"
+        android:layout_height="434dp"
+        android:fontFamily="sans-serif"
+        android:padding="3dp"
+        android:text="@string/corona_definition"
+        android:textColor="#242424"
+        android:textSize="22sp" />
+
+    <Button
+        android:id="@+id/btn_sint"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/colorAccent"
+        android:text="Ver sintomas"
+        android:textColor="#0E0E0E" />
+</LinearLayout>

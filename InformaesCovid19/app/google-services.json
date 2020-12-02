@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "859957428288",
+    "firebase_url": "https://informacoescovid19-fe503.firebaseio.com",
+    "project_id": "informacoescovid19-fe503",
+    "storage_bucket": "informacoescovid19-fe503.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:859957428288:android:a6df7afe28c5a21e241fa5",
+        "android_client_info": {
+          "package_name": "br.com.tenishiELucas.informacoesCovid19"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "859957428288-2af4c40of8nbic9h283ic0vvi01cgdp7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.tenishiELucas.informacoesCovid19",
+            "certificate_hash": "0433ac12ea9ec4898dce54bab3e112d011c07d91"
+          }
+        },
+        {
+          "client_id": "859957428288-qifopvegtehenblscdbfa1kpsacnocde.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRTeNvXXb53CQzpGYLyInVywgy3VCLloQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "859957428288-qifopvegtehenblscdbfa1kpsacnocde.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
